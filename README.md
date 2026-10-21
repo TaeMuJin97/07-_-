@@ -9,3 +9,4 @@ PPT 40쪽 / 관련 설명 33~41쪽 / 교시 내 실습 25분.
 
 README.md를 변경해 원격에 올리는 연습중입니다.
 이번에는 원격에서 로컬로 git pull 실습을 해보겠습니다.
+Second git pull test
